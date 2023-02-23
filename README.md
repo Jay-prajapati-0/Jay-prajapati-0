@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jay Prajapati</h1>
-<h3 align="center">Curious Learner from India</h3>
+<h3 align="center">Curious Learner</h3>
 
 - 🔭 I’m currently working on **Node.js**
 
