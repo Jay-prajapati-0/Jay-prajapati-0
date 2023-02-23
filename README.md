@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jay Prajapati</h1>
 <h3 align="center"> </h3>
-
-
+</br>
 
 - 🔭 I’m currently working on **Node.js**
 
