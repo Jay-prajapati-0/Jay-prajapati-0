@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Node.js**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Scikit-Learn**
 
 - 📝 I regularly write articles on [https://medium.com/@jay-prajapati64](https://medium.com/@jay-prajapati64)
 
