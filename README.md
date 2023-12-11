@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/https://dev.to/jayprajapati0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/jayprajapati0" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/jay-prajapati-o/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jay-prajapati-o/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jay-prajapati-o/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jay-prajapati-o/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/19238186/jay-prajapati?tab=profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/19238186/jay-prajapati" height="30" width="40" /></a>
 <a href="https://medium.com/@jay-prajapati64" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@jay-prajapati64" height="30" width="40" /></a>
 </p>
